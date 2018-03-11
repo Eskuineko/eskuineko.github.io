@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-date: 2018-03-11T09:46:23-04:00
+title: Mi primera publicación
+date: 2018-03-11 09:46:23 -0400
 draft: true
----
 
+---
